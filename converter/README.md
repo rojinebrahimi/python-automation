@@ -9,5 +9,5 @@ Python 3.6+
 ## Usage
 
 ```python
-python smtp-mail.py
+python converter.py
 ```
