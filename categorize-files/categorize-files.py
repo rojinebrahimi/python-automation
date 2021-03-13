@@ -7,12 +7,12 @@ from pathlib import Path
 categories = ['Documents', 'Pictures', 'Music', 'Videos', 'Compressed', 'Programmes']
 
 # -- Defined extensions --------------------------------------------------------------------------------
-documents = ['.pdf', '.docx', '.xlsx', '.pptx', '.epub', '.odx', '.srt', '.odt', '.txt', '.doc', '.ttf', '.ppt']
+documents = ['.pdf', '.docx', '.xlsx', '.pptx', '.epub', '.odx', '.srt', '.odt', '.txt', '.doc', '.ttf', '.ppt', '.crt']
 pictures = ['.jpg', '.jpeg', '.png', '.svg']
 music = ['.mp3']
 videos = ['.mp4', '.mkv', '.wmv', '.mov', '.flv', '.avi', '.webm']
-compressed = ['.zip', '.tar', '.rar']
-programme_files = ['.yaml', '.yml', '.ovpn', '.sh', '.py', '.java', '.class', '.exe', '.deb', '.rpm', '.ipynb', '.vsix']
+compressed = ['.zip', '.tar', '.rar', '.tar.gz', '.tar.xz']
+programme_files = ['.yaml', '.yml', '.ovpn', 'apk', '.sh', '.py', '.java', '.class', '.exe', '.deb', '.rpm', '.ipynb', '.msi', '.vsix', '.xml', '.json', '.asm', '.pkl']
 
 # -- Directory path ------------------------------------------------------------------------------------
 dir_path = input("Enter the path of the directory you with to categorize its contents: ")
