@@ -7,7 +7,7 @@ from pathlib import Path
 categories = ['Documents', 'Pictures', 'Music', 'Videos', 'Compressed', 'Programmes']
 
 # -- Defined extensions --------------------------------------------------------------------------------
-documents = ['.pdf', '.docx', '.xlsx', '.pptx', '.epub', '.odx', '.srt', '.odt', '.txt', '.doc', '.ttf', '.ppt', '.crt']
+documents = ['.pdf', '.docx', '.xlsx', '.pptx', '.epub', '.odx', '.srt', '.odt', '.txt', '.doc', '.ttf', '.ppt', '.crt', '.pem']
 pictures = ['.jpg', '.jpeg', '.png', '.svg']
 music = ['.mp3']
 videos = ['.mp4', '.mkv', '.wmv', '.mov', '.flv', '.avi', '.webm']
