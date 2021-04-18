@@ -10,7 +10,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install necessa
 pip install mysql-connector-python
 ...
 ```
-
+## Requirements
+ * Python 3.6+
+ 
 ## Usage
 
 ```python
