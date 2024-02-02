@@ -1,6 +1,6 @@
 # Automation
 
-Useful Python 3.6+ scripts used for automating tasks or simple routine jobs.  
+Useful ${{\color{Gold}{\textsf{Python 3.6+}}}}\$ scripts used for automating tasks or simple routine jobs.  
 
 ## Installation
 
